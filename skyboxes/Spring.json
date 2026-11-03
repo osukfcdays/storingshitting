@@ -1,0 +1,14 @@
+{
+  "SkyboxUp": "rbxassetid://12216108877",
+  "SkyboxDn": "rbxassetid://12216109875",
+  "SkyboxLf": "rbxassetid://12216110170",
+  "SkyboxRt": "rbxassetid://12216110471",
+  "SkyboxFt": "rbxassetid://12216109489",
+  "SkyboxBk": "rbxassetid://12216109205",
+  "StarCount": 3000,
+  "SunAngularSize": 21,
+  "MoonAngularSize": 11,
+  "SunTextureId": "rbxasset://sky/sun.jpg",
+  "MoonTextureId": "rbxasset://sky/moon.jpg",
+  "CelestialBodiesShown": false
+}
